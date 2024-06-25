@@ -1,10 +1,10 @@
-👋 Olá! Meu nome é Everton Vinícius, tenho 20 anos e sou apaixonado por tecnologia e inovação. Atualmente, estou cursando Desenvolvimento de Sistemas pelo Senac/MS. Ao longo da minha jornada, concluí diversos cursos voltados para tecnologia e desenvolvimento, sempre buscando expandir meus conhecimentos e habilidades na área.
+👋 Hello! My name is Everton Vinícius, I am 20 years old and I am passionate about technology and innovation. Currently, I am studying System Development at Senac/MS. Throughout my journey, I have completed several courses focused on technology and development, always seeking to expand my knowledge and skills in the field.
 
-📚 Além disso, sou formado em Técnico Agrícola pelo Instituto Federal do Mato Grosso do Sul. Essa formação me proporcionou uma visão ampla e interdisciplinar, enriquecendo minha capacidade de resolver problemas e encontrar soluções inovadoras para a agricultura.
+📚 In addition, I have a degree as an Agricultural Technician from the Federal Institute of Mato Grosso do Sul. This education has given me a broad and interdisciplinary perspective, enriching my ability to solve problems and find innovative solutions for agriculture.
 
-💻 No meu tempo livre, gosto de explorar novas tecnologias e trabalhar em projetos pessoais que me desafiem e me ajudem a crescer como desenvolvedor. Estou sempre à procura de novas oportunidades para aprender e colaborar em projetos interessantes.
+💻 In my free time, I enjoy exploring new technologies and working on personal projects that challenge me and help me grow as a developer. I am always looking for new opportunities to learn and collaborate on interesting projects.
 
-🔗 Fique à vontade para explorar meus repositórios e acompanhar minha jornada no mundo do desenvolvimento de sistemas!
+🔗 Feel free to explore my repositories and follow my journey in the world of system development!
 
 <!--
 **EdyVinicius/EdyVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
