@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 Olá! Meu nome é Everton Vinícius, tenho 20 anos e sou apaixonado por tecnologia e inovação. Atualmente, estou cursando Desenvolvimento de Sistemas pelo Senac/MS. Ao longo da minha jornada, concluí diversos cursos voltados para tecnologia e desenvolvimento, sempre buscando expandir meus conhecimentos e habilidades na área.
+
+📚 Além disso, sou formado em Técnico Agrícola pelo Instituto Federal do Mato Grosso do Sul. Essa formação me proporcionou uma visão ampla e interdisciplinar, enriquecendo minha capacidade de resolver problemas e encontrar soluções inovadoras.
+
+💻 No meu tempo livre, gosto de explorar novas tecnologias e trabalhar em projetos pessoais que me desafiem e me ajudem a crescer como desenvolvedor. Estou sempre à procura de novas oportunidades para aprender e colaborar em projetos interessantes.
+
+🔗 Fique à vontade para explorar meus repositórios e acompanhar minha jornada no mundo do desenvolvimento de sistemas!
 
 <!--
 **EdyVinicius/EdyVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
