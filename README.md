@@ -1,4 +1,6 @@
-👋 **Hello! My name is Everton Vinícius**, I am 21 years old and I am passionate about technology and innovation. Currently, I am studying System Development at Senac/MS. Throughout my journey, I have completed several courses focused on technology and development, always seeking to expand my knowledge and skills in the field.
+👋 **Hello! My name is Everton Vinícius!**
+
+ 🎓 I am 21 years old and I am passionate about technology and innovation. Currently, I am studying System Development at Senac/MS. Throughout my journey, I have completed several courses focused on technology and development, always seeking to expand my knowledge and skills in the field.
 
 📚 In addition, I have a degree as an Agricultural Technician from the Federal Institute of Mato Grosso do Sul. This education has given me a broad and interdisciplinary perspective, enriching my ability to solve problems and find innovative solutions for agriculture.
 
@@ -6,7 +8,7 @@
 
 🔗 Feel free to explore my repositories and follow my journey in the world of system development!
 
-### 🔧 **Technologies & Tools:**
+🔧 **Technologies & Tools:**
 <p align="left">
     </a>
         <a href="https://www.python.org" target="_blank"> 
@@ -29,6 +31,10 @@
     </a>
 </p>
 
+📫 Get in touch:
+
+💬 Feel free to reach out for collaborations or just a tech chat!<br/>
+📧 Email me at evertonvinicius071@gmail.com<br/>
 
 <!--
 **EdyVinicius/EdyVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
