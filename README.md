@@ -31,7 +31,7 @@
     </a>
 </p>
 
-### 📊 Estatísticas
+📊 **Estatísticas **
 
 <p>
   <img 
