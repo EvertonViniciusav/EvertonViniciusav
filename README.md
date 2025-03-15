@@ -60,7 +60,7 @@
 />
 <br/>
 <br/>
-📊 **Estatísticas**
+📊 **Statistics**
 
 <p>
   <img 
@@ -77,11 +77,4 @@
       style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertonViniciusav&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
-</p>
-
-<p>
-📫 **Get in touch:**
-
-💬 Feel free to reach out for collaborations or just a tech chat!<br/>
-📧 Email me at evertonvinicius071@gmail.com<br/>
 </p>
