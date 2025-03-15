@@ -60,7 +60,12 @@
 />
 <br/>
 <br/>
-📊 **Statistics**
+📫 **Get in touch:**
+
+💬 Feel free to reach out for collaborations or just a tech chat!<br/>
+📧 Email me at evertonvinicius071@gmail.com<br/>
+
+📊 **Estatísticas**
 
 <p>
   <img 
