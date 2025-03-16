@@ -61,10 +61,12 @@
 <br/>
 <br/>
 📫 **Get in touch:**
-
+<p align="left">
+    <a href=evertonvinicius071@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" alt="Linkedin" height="35" width="35"/></a>
+    <a href="https://www.instagram.com/oevertonvinicius/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Linkedin" height="35" width="35"/</a>
+</p>
 💬 Feel free to reach out for collaborations or just a tech chat!<br/>
-📧 Email me at evertonvinicius071@gmail.com<br/>
-
+<br>
 📊 **Statistics**
 
 <p>
