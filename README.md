@@ -65,7 +65,7 @@
 💬 Feel free to reach out for collaborations or just a tech chat!<br/>
 📧 Email me at evertonvinicius071@gmail.com<br/>
 
-📊 **Estatísticas**
+📊 **Statistics**
 
 <p>
   <img 
