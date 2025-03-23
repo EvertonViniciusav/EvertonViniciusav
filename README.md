@@ -44,16 +44,24 @@
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Arduino" 
+    title="Arduino"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" 
