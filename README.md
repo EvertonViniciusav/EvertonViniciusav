@@ -4,7 +4,7 @@
 
 📚 In addition, I have a degree as an Agricultural Technician from the Federal Institute of Mato Grosso do Sul. This education has given me a broad and interdisciplinary perspective, enriching my ability to solve problems and find innovative solutions for agriculture.
 
-💻 In my free time, I enjoy exploring new technologies and working on personal projects that challenge me and help me grow as a developer. I am always looking for new opportunities to learn and collaborate on interesting projects.
+💻 In my free time, I enjoy exploring new technologies and working on personal projects that challenge me and help me grow as a developer. I'm always looking for new opportunities to learn and collaborate on interesting projects.
 
 🔗 Feel free to explore my repositories and follow my journey in the world of system development!
 
@@ -83,7 +83,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="margin-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=EvertonViniciusav&count_private=trueshow_icons=true&theme=tokyonight&include_all_commits=true" 
   />
 <img 
