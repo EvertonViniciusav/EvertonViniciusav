@@ -44,19 +44,19 @@
 />
 <img 
     align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
     alt="Mysql" 
     title="Mysql"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="flask" 
+    title="flask"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/?size=100&id=AqYCfGyGXlO7&format=png&color=ffffff" 
 />
 <img 
     align="left" 
@@ -68,6 +68,37 @@
 />
 <br/>
 <br/>
+
+🔧📈 **technologies and tools in learning:**
+
+<img 
+    align="left" 
+    alt="php" 
+    title="php"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="bootstrap" 
+    title="bootstrap"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" 
+/>
+
+<br/>
+<br/>
+
 📫 **Get in touch:**
 <p align="left">
     <a href=mailto:evertonvinicius071@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504727.png" alt="Linkedin" height="35" width="35"/></a>
