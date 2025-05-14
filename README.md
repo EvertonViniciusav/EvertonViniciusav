@@ -89,11 +89,11 @@
 />
 <img 
     align="left" 
-    alt="bootstrap" 
-    title="bootstrap"
+    alt="vuejs" 
+    title="vuejs"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" 
 />
 
 <br/>
